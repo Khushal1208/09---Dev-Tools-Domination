@@ -27,7 +27,7 @@ console.table([{ name: 'Snickers', age: 2 }, { name: 'Hugo', age: 8 }]);
 ```
 
 ## 🚀 Project Demo
-(Add link if hosted)
+[(Add link if hosted)](https://khushal1208.github.io/09---Dev-Tools-Domination/)
 
 ## 🔗 Resources
 - [MDN Console API](https://developer.mozilla.org/en-US/docs/Web/API/console)
